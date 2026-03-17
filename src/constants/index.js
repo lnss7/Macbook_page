@@ -1,8 +1,8 @@
 export const navLinks = [
-    { label: 'Store' },
+    { label: 'Loja' },
     { label: 'Mac' },
     { label: 'Iphone' },
     { label: 'Watch' },
-    { label: 'Vision' },
+    { label: 'Ipad' },
     { label: 'Airpods' },
 ]
